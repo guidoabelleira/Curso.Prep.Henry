@@ -1,0 +1,38 @@
+
+
+body {
+    background: lightgray ;
+    background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/tableback.jpg);
+        }
+    
+    h1{
+        color:navy;
+        text-align: center;
+        width: 500px;
+        margin: 0px auto;
+    }
+
+    #thirdDiv{
+        width: 500px;
+        height: 600px;
+        background-color: linen;
+        padding: 50px;
+        border: 2px solid red;
+        margin: 0px auto;
+    }
+
+    #spanId{
+        font-size: 18px;
+        margin: 50px;
+    }
+
+    .divClass{
+        width: 500px;
+        margin: 0px auto;
+    }
+    
+    img {
+        width: 400px;
+        margin: 0px auto;
+    }
+

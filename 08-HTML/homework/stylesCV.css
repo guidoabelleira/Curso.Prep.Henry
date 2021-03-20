@@ -1,0 +1,118 @@
+*{
+    p {
+
+    }
+}
+body{
+    background: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#container{
+    width: 90%;
+    margin: 0px auto;
+}
+
+header{
+    background: lightgrey;
+    height: 100px;
+    width: 0px auto;
+    text-align: center;
+    line-height: center;
+}
+
+#infPers{
+    background: lightgrey;
+    float: left;
+    min-height: 700px;
+    width: calc(30% - 10px);
+    padding: 5px;
+    padding-top: 5px;
+}
+.articuloIP img{
+    width: 250px;
+    height: 250px;
+    padding-left: 40px;
+}
+.articuloIP h3{
+    font-size: 20px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+.articuloIP p{
+    font-size: 14px;
+    font-family: 'Arial', Helvetica, sans-serif;
+}
+
+#info{
+    float: left;
+    min-height: 500px;
+    width: calc(70% - 20px);
+    padding: 10px;
+    padding-top: 5px;
+}
+.articulo{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid lightslategrey;
+}
+
+
+
+.articulo h3{
+    font-size: 18px;
+    color: mediumblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.articulo p{
+    font-size: 14px;
+    font-family: 'Arial', Helvetica, sans-serif;
+}
+
+
+#hobbies{
+    background: lightgrey;
+    padding: 10px;
+}
+
+.artHob{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.artHob h3{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.artHob p{
+    font-size: 14px;
+    font-family: 'Arial', Helvetica, sans-serif;
+}
+
+
+#soyHenry{
+    background: silver;
+    height: 20%;
+    width: 0px auto;
+    padding: 10px;
+}
+
+.artHenry h3{
+    font-size: 18px;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.clearfix{
+    clear: both;
+}
+
+footer{
+    background: lightblue;
+    height: 30px;
+    width: 0px auto;
+    text-align: right;
+    line-height: 30px;
+}
